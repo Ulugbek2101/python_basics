@@ -1,1 +1,0 @@
-  print(f"{avto['rang'].title() {avto['model'].title()}, {karobka} karobka. Narxi: {narx}")
